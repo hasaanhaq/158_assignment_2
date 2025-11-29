@@ -99,11 +99,3 @@ Then select the **"Python (CSE 158 venv)"** kernel and run all cells.
 
 The Random Forest model achieves the best performance, demonstrating that early heart-rate and speed patterns contain useful predictive information about total workout duration.
 
-## Author
-
-Ayoob Aldelaimy
-
-## Course
-
-CSE 158 - Machine Learning
-
